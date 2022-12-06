@@ -661,3 +661,8 @@ ovo_clf = OneVsOneClassifier(SGDClassifier(random_state=42))
 ovo_clf.fit(X_train_shift, y_train_shift)
 ovo_clf.predict([some_digit])
 ```
+
+Not completed
+
+## Author
+Violette Naa Adoley Allotey
